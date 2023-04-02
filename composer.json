@@ -1,0 +1,11 @@
+{
+    "name": "mmesl/cow-say",
+    "autoload": {
+        "psr-4": {
+            "Mmesl\\CowSay\\": "src/"
+        }
+    },
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
